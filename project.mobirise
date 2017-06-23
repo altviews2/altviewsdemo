@@ -62,7 +62,7 @@
             "showButtons": true
           },
           "title": "altviews",
-          "text": "A community exploring a wide spectrum of alternative views<br> on science, religion, history, politics and more.<br>",
+          "text": "<span style=\"font-style: normal;\">A community exploring a wide spectrum of alternative views<br> on science, religion, history, politics and more.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.tinychat.com/altviews\" data-toolbar=\"-mbrBtnMove\">LIVE CHAT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://proboards.com\" data-toolbar=\"-mbrBtnMove\">FORUM</a> ",
           "_styles": {
             ".mbr-section-lead": {
@@ -71,6 +71,10 @@
             },
             ".mbr-section-title": {
               "font-size": "100px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         }
