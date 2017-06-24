@@ -77,8 +77,8 @@
             "showButtons": true
           },
           "title": "altviews",
-          "text": "<span style=\"font-style: normal;\">exploring alternative views&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.tinychat.com/altviews\" data-toolbar=\"-mbrBtnMove\">LIVE CHAT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://altviews.boards.net/board/1/general-discussion\" data-toolbar=\"-mbrBtnMove\">FORUM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://altviews2.blogspot.ca/\" data-toolbar=\"-mbrBtnMove\">BLOG</a> "
+          "text": "<span style=\"font-style: normal;\">A community dedicated to exploring alternative views&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.tinychat.com/altviews\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LIVE CHAT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://altviews.boards.net/board/1/general-discussion\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FORUM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://altviews2.blogspot.ca/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BLOG</a> "
         }
       ]
     }
