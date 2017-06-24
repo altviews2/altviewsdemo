@@ -23,7 +23,9 @@
         "isScrollToTopButton": false,
         "isRtl": false
       }
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
